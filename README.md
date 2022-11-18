@@ -2,7 +2,6 @@
 ### I'm an engineer that loves to solve problems while programming. I am gradueted in Industrial Engineering and also in Analysis and Systems Development. 
 
 ### 🦅 How to reach me?
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmarcelopgama)](https://twitter.com/marcelopgama)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-gama-8b8111a1/)
 
 
